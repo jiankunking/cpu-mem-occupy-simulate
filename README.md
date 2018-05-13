@@ -1,0 +1,2 @@
+1、测试CPU的话 就放开cpuReaper类上的注解Component
+2、测试内存的话 就放开memReaper类上的注解Component
